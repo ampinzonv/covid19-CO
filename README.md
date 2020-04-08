@@ -16,3 +16,8 @@ data analysis.
 
 [INS publishes data in CSV format here](https://e.infogram.com/01266038-4580-4cf0-baab-a532bd968d0c?parent_url=https%3A%2F%2Fwww.ins.gov.co%2FNoticias%2FPaginas%2FCoronavirus.aspx&src=embed#)
 >
+
+##Contributors
+Nicolas Mendoza (nmendozam)
+Maria Angarita (mangaritar)
+Andrés Pinzón (ampinzonv)
